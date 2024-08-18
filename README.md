@@ -23,5 +23,5 @@ How to run
 ```bash
 $ cmake .
 $ make
-$ ./bench your-dataset
+$ ./bench
 ```
